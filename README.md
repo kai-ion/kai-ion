@@ -1,7 +1,9 @@
 # <div align="center"> <p style="text-align: center;"> Hi there! Welcome to my GitHub Profile! </p> </div>
 
+
 ### <div align="center"> <p style="text-align: center"> <img src="./assets/img/waving-hand.webp" width="4%"> My name is kai-ion, how are you? <img src="./assets/img/waving-hand.webp" width="4%"></p> </div>
 
+<hr></hr>
 
 ## <div align="center">  🛠 Languages and Tech Stack </div>
 
@@ -25,4 +27,16 @@
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
     <code><a href="https://www.anaconda.com/" title="Anaconda" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a></code>
     <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
+</div>
+
+<hr></hr>
+
+<div align="center">
+  <img  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kai-ion&theme=react&border_radius=5" />
+</a>
 </div>
