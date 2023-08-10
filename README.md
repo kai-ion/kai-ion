@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> Hi there! Welcome to my GitHub Profile! </p>
+# <div align="center"> <p style="text-align: center;"> Hi there! Welcome to my GitHub Profile! </p> </div>
 
 ### <div align="center"> <p style="text-align: center"> <img src="./assets/img/waving-hand.webp" width="4%"> My name is kai-ion, how are you? <img src="./assets/img/waving-hand.webp" width="4%"></p> </div>
 
