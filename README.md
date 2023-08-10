@@ -37,6 +37,11 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kai-ion&theme=react&border_radius=5" />
+  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=kai-ion&theme=react&border_radius=5" />
 </a>
 </div>
+
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai-ion&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
