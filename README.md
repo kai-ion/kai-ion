@@ -33,6 +33,8 @@
     <code><a href="https://www.drupal.org/" title="Drupal" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="40" height="40"/></a></code>
     <code><a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a></code>
     <code><a href="https://azure.microsoft.com/en-us" title="Azure" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/></a></code>
+    <code><a href="https://aws.amazon.com/" title="AWS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></code>
+    
 </div>
 
 <hr></hr>
